@@ -1,4 +1,5 @@
 # Image2Sim
+Requirements: pytesseract, cv2, argparse
 # Image2Text
 Use the following command to use our codes
 ~~~
