@@ -7,7 +7,7 @@ python imagetotext.py --image_name 3_6_8.png > source.txt
 ~~~
 or
 ~~~
-python imagetotext.py --image_name 2_6_8_r.png > compare_r.txt
+python imagetotext.py --image_name 2_6_8_r.jpg > compare_r.txt
 ~~~
 There are other options you can choose.
 Please refer to imagetotext.py.
